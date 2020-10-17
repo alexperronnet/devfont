@@ -1,0 +1,8 @@
+plugins:
+  - removeDimensions: true
+  - sortAttrs: true
+  - removeAttrs:
+      attrs: fill
+  - addAttributesToSVGElement:
+      attributes:
+        - fill: currentColor
