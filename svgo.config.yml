@@ -2,7 +2,7 @@ plugins:
   - removeDimensions: true
   - sortAttrs: true
   - removeAttrs:
-      attrs: fill
+      attrs: stroke
   - addAttributesToSVGElement:
       attributes:
-        - fill: currentColor
+        - stroke: currentColor
