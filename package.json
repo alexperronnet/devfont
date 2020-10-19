@@ -1,6 +1,6 @@
 {
   "name": "devfont",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Beautiful and elegant open source icon set for UI designers and developers.",
   "scripts": {
     "build": "svgo --config=svgo.config.yml -f ./icons/default -o ./icons/optimized"
