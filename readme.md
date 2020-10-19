@@ -10,4 +10,6 @@ npm install devfont
 
 > I also publish the icons to npm as `devfont`, but i don't consider the directory structure stable yet and it could change in any release, so use the npm package at your own risk right now.
 
+---
+
 ![](./.github/images/preview.svg)
