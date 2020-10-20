@@ -1,8 +1,0 @@
-plugins:
-  - removeDimensions: true
-  - sortAttrs: true
-  - removeAttrs:
-      attrs: stroke
-  - addAttributesToSVGElement:
-      attributes:
-        - stroke: currentColor

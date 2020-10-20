@@ -1,0 +1,12 @@
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M2 4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4zm2 1v13.586l9.293-9.293a1 1 0 0 1 1.414 0L20 14.586V5H4zm16 12.414l-6-6L6.414 19H20v-1.586zM6 9a2 2 0 1 1 4 0 2 2 0 0 1-4 0z"
+  />
+</svg>

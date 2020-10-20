@@ -2,16 +2,35 @@
   "name": "devfont",
   "version": "1.5.0",
   "description": "Beautiful and elegant open source icon set for UI designers and developers.",
+  "main": "dist/devfont.js",
+  "unpkg": "dist/devfont.min.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "build": "svgo --config=svgo.config.yml -f ./icons/default -o ./icons/optimized"
+    "build": "sh ./bin/_build.sh"
   },
   "devDependencies": {
-    "svgo": "^1.3.2"
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "cheerio": "^1.0.0-rc.2",
+    "html-minifier": "^3.5.8",
+    "prettier": "^1.8.2",
+    "svgo": "^0.7.2",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "core-js": "^3.1.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/devfont/devfont.git"
   },
+  "homepage": "https://devfont.com",
   "author": "Alex Perronnet <alex@alexperronnet.io>",
   "license": "MIT"
 }
