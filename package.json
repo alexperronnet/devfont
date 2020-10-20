@@ -1,6 +1,6 @@
 {
   "name": "devfont",
-  "version": "1.5.0",
+  "version": "2.0.1",
   "description": "Beautiful and elegant open source icon set for UI designers and developers.",
   "main": "dist/devfont.js",
   "unpkg": "dist/devfont.min.js",
@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "sh ./bin/_build.sh"
+    "build": "./bin/_build.sh"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
