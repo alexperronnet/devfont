@@ -4,9 +4,5 @@
   viewBox="0 0 24 24"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <path
-    fill-rule="evenodd"
-    clip-rule="evenodd"
-    d="M3 3a1 1 0 0 1 1-1h3a1 1 0 0 1 0 2H5v10h14V4h-2a1 1 0 1 1 0-2h3a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3zm16 13H5v4h14v-4zM11.293 2.293a1 1 0 0 1 1.414 0l2 2A1 1 0 0 1 14 6h-1v4a1 1 0 1 1-2 0V6h-1a1 1 0 0 1-.707-1.707l2-2zM15 18a1 1 0 0 1 1-1h.01a1 1 0 1 1 0 2H16a1 1 0 0 1-1-1z"
-  />
+  <path d="M8 2v2H5l-.001 10h14L19 4h-3V2h4a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h4zm10.999 14h-14L5 20h14l-.001-4zM17 17v2h-2v-2h2zM12 2l4 4h-3v5h-2V6H8l4-4z" />
 </svg>

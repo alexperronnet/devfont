@@ -4,11 +4,5 @@
   viewBox="0 0 24 24"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <path d="M2 5a1 1 0 0 1 2 0v14a1 1 0 1 1-2 0V5z" />
-  <path d="M8 5a1 1 0 0 1 2 0v14a1 1 0 1 1-2 0V5z" />
-  <path d="M12 4a1 1 0 0 0-1 1v14a1 1 0 1 0 2 0V5a1 1 0 0 0-1-1z" />
-  <path d="M14 5a1 1 0 1 1 2 0v14a1 1 0 1 1-2 0V5z" />
-  <path d="M20.5 4A1.5 1.5 0 0 0 19 5.5v13a1.5 1.5 0 0 0 3 0v-13A1.5 1.5 0 0 0 20.5 4z" />
-  <path d="M17 4.5a.5.5 0 0 1 1 0v15a.5.5 0 0 1-1 0v-15z" />
-  <path d="M6.5 4a.5.5 0 0 0-.5.5v15a.5.5 0 0 0 1 0v-15a.5.5 0 0 0-.5-.5z" />
+  <path d="M2 4h2v16H2V4zm4 0h1v16H6V4zm2 0h2v16H8V4zm3 0h2v16h-2V4zm3 0h2v16h-2V4zm3 0h1v16h-1V4zm2 0h3v16h-3V4z" />
 </svg>

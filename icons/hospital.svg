@@ -7,6 +7,6 @@
   <path
     fill-rule="evenodd"
     clip-rule="evenodd"
-    d="M3 3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v17h1a1 1 0 1 1 0 2H2a1 1 0 1 1 0-2h1V3zm2 17h3v-5a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v5h3V4H5v16zm9 0v-4h-4v4h4zM12 6a1 1 0 0 1 1 1v1h1a1 1 0 1 1 0 2h-1v1a1 1 0 1 1-2 0v-1h-1a1 1 0 0 1 0-2h1V7a1 1 0 0 1 1-1z"
+    d="M3 3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v17h2v2H1v-2h2V3zm2 17h3v-5a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v5h3V4H5v16zm9 0v-4h-4v4h4zM11 8V6h2v2h2v2h-2v2h-2v-2H9V8h2z"
   />
 </svg>

@@ -4,16 +4,9 @@
   viewBox="0 0 24 24"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <g clip-path="url(#a)">
-    <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
-      d="M.293.293a1 1 0 0 1 1.414 0l22 22a1 1 0 0 1-1.414 1.414L14 15.414V17a4 4 0 1 1-2-3.465v-.12L.293 1.706a1 1 0 0 1 0-1.414zM12 17a2 2 0 1 0-4 0 2 2 0 0 0 4 0zm0-13a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2h-5v3a1 1 0 1 1-2 0V4z"
-    />
-  </g>
-  <defs>
-    <clipPath id="a">
-      <rect width="24" height="24" />
-    </clipPath>
-  </defs>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M14 15.414l8.293 8.293 1.414-1.414-22-22L.293 1.707 12 13.414v.121A4 4 0 1 0 14 17v-1.586zM14 5v5.586l-2-2V3h8v2h-6zm-4 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"
+  />
 </svg>
