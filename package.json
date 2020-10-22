@@ -1,6 +1,6 @@
 {
   "name": "devfont",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Beautiful and elegant open source icon set for UI designers and developers.",
   "main": "dist/devfont.js",
   "unpkg": "dist/devfont.min.js",
