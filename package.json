@@ -17,7 +17,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "cheerio": "^1.0.0-rc.2",
     "html-minifier": "^3.5.8",
-    "prettier": "^1.8.2",
+    "prettier": "^2.2.0",
     "svgo": "^0.7.2",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
