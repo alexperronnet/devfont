@@ -1,8 +1,8 @@
-import fs from 'fs'
-import path from 'path'
-import icons from '../src/icons'
+import fs from "fs"
+import path from "path"
+import icons from "../src/icons"
 
-const OUT_DIR = path.resolve(__dirname, '../dist/icons')
+const OUT_DIR = path.resolve(__dirname, "../dist/icons")
 
 console.log(`building svgs in ${OUT_DIR}`)
 

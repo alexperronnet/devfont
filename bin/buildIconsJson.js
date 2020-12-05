@@ -1,15 +1,15 @@
-import fs from 'fs'
-import path from 'path'
-import buildIconsObject from './buildIconsObject'
+import fs from "fs"
+import path from "path"
+import buildIconsObject from "./buildIconsObject"
 
-const IN_DIR = path.resolve(__dirname, '../icons')
-const OUT_FILE = path.resolve(__dirname, '../dist/icons.json')
+const IN_DIR = path.resolve(__dirname, "../icons")
+const OUT_FILE = path.resolve(__dirname, "../dist/icons.json")
 
 console.log(`building ${OUT_FILE}`)
 
 const svgFiles = fs
   .readdirSync(IN_DIR)
-  .filter(file => path.extname(file) === '.svg')
+  .filter(file => path.extname(file) === ".svg")
 
 const getSvg = svgFile => fs.readFileSync(path.join(IN_DIR, svgFile))
 

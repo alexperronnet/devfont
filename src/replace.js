@@ -1,15 +1,15 @@
-import classnames from 'classnames/dedupe'
-import icons from './icons'
+import classnames from "classnames/dedupe"
+import icons from "./icons"
 
 /**
  * @param {Object} attrs
 */
 function replace(attrs = {}) {
-  if (typeof document === 'undefined') {
-    throw new Error('`devfont.replace()` only works in a browser environment.');
+  if (typeof document === "undefined") {
+    throw new Error("`devfont.replace()` only works in a browser environment.");
   }
 
-  const elementsToReplace = document.querySelectorAll('[data-devfont]');
+  const elementsToReplace = document.querySelectorAll("[data-devfont]");
 
   Array.from(elementsToReplace).forEach(element =>
     replaceElement(element, attrs),
@@ -22,8 +22,8 @@ function replace(attrs = {}) {
 */
 function replaceElement(element, attrs = {}) {
   const elementAttrs = getAttrs(element);
-  const name = elementAttrs['data-devfont'];
-  delete elementAttrs['data-devfont'];
+  const name = elementAttrs["data-devfont"];
+  delete elementAttrs["data-devfont"];
 
   const svgString = icons[name].toSvg({
     ...attrs,
@@ -33,10 +33,10 @@ function replaceElement(element, attrs = {}) {
 
   const svgDocument = new DOMParser().parseFromString(
     svgString,
-    'image/svg+xml'
+    "image/svg+xml"
   )
 
-  const svgElement = svgDocument.querySelector('svg')
+  const svgElement = svgDocument.querySelector("svg")
 
   element.parentNode.replaceChild(svgElement, element)
 }
