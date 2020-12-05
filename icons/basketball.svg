@@ -1,7 +1,17 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21Z" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5.65 5.6499L18.35 18.3499" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5.65 18.3499L18.35 5.6499" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 3C12 5.38695 12.9482 7.67613 14.636 9.36396C16.3239 11.0518 18.6131 12 21 12" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 12C5.38695 12 7.67613 12.9482 9.36396 14.636C11.0518 16.3239 12 18.6131 12 21" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18z" />
+  <path d="M5.65 5.65l12.7 12.7" />
+  <path d="M5.65 18.35l12.7-12.7" />
+  <path d="M12 3a9 9 0 0 0 9 9" />
+  <path d="M3 12a9 9 0 0 1 9 9" />
 </svg>

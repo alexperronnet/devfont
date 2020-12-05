@@ -1,12 +1,22 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="11.5" r="3.5" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.75 6.75C19.5784 6.75 20.25 6.07843 20.25 5.25C20.25 4.42157 19.5784 3.75 18.75 3.75C17.9216 3.75 17.25 4.42157 17.25 5.25C17.25 6.07843 17.9216 6.75 18.75 6.75Z" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.75 3.75V2.625" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17.451 4.5L16.4767 3.9375" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17.451 6L16.4767 6.5625" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.75 6.75V7.875" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20.0491 6L21.0233 6.5625" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20.0491 4.5L21.0233 3.9375" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20.9451 11C20.9814 11.3283 21 11.662 21 12C21 14.439 20.0298 16.6514 18.4543 18.2723C16.819 19.9548 14.5316 21 12 21C9.46844 21 7.18101 19.9548 5.54571 18.2723C3.97019 16.6514 3 14.439 3 12C3 7.02944 7.02944 3 12 3C12.338 3 12.6717 3.01863 13 3.05493" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5.54572 18.2723C7.00157 16.2881 9.35036 15 12 15C14.6497 15 16.9984 16.2881 18.4543 18.2723" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <circle cx="12" cy="11.5" r="3.5" />
+  <path d="M18.75 6.75a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" />
+  <path d="M18.75 3.75V2.625" />
+  <path d="M17.451 4.5l-.974-.563" />
+  <path d="M17.451 6l-.974.563" />
+  <path d="M18.75 6.75v1.125" />
+  <path d="M20.05 6l.973.563" />
+  <path d="M20.05 4.5l.973-.563" />
+  <path d="M20.945 11a8.97 8.97 0 0 1-2.49 7.272A8.973 8.973 0 0 1 12 21a8.973 8.973 0 0 1-6.454-2.728A9 9 0 0 1 13 3.055" />
+  <path d="M5.546 18.272A7.989 7.989 0 0 1 12 15a7.989 7.989 0 0 1 6.454 3.272" />
 </svg>

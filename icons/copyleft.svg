@@ -1,4 +1,14 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle r="9" transform="matrix(-1 0 0 1 12 12)" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.35418 9C10.0593 8.37764 10.9856 8 12 8C14.2091 8 16 9.79086 16 12C16 14.2091 14.2091 16 12 16C10.9856 16 10.0593 15.6224 9.35418 15" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <circle r="9" transform="matrix(-1 0 0 1 12 12)" />
+  <path d="M9.354 9a4 4 0 1 1 0 6" />
 </svg>

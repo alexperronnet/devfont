@@ -1,5 +1,15 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M5 3C6.33419 5.81272 7.02633 8.88689 7.02633 12C7.02633 15.1131 6.33419 18.1873 5 21" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M19 3C17.6658 5.81272 16.9737 8.88689 16.9737 12C16.9737 15.1131 17.6658 18.1873 19 21" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5 12H19" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M5 3a21 21 0 0 1 0 18" />
+  <path d="M19 3a21 21 0 0 0 0 18" />
+  <path d="M5 12h14" />
 </svg>

@@ -1,7 +1,17 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.01038 10C4.58563 11.9648 7.47348 14.4492 12.0052 14.4492C16.5369 14.4492 19.4247 11.9648 21 10" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.859 12.1172L20.9962 15.8472" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M14.4584 14.1909L15.1249 17.9999" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.54377 14.189L8.87714 17.9986" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5.14748 12.1143L3 15.8623" stroke="#1E293B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M3.01 10c1.576 1.965 4.463 4.45 8.995 4.45 4.532 0 7.42-2.485 8.995-4.45" />
+  <path d="M18.859 12.117l2.137 3.73" />
+  <path d="M14.458 14.19l.667 3.81" />
+  <path d="M9.544 14.189l-.667 3.81" />
+  <path d="M5.147 12.114L3 15.862" />
 </svg>
