@@ -11,7 +11,11 @@ Devfont is a premium, simply and beautiful set of 690+ open source icons for des
 Search, preview and download at [devfont.com](https://devfont.com)
 
 ```shell
+# Install using NPM
 npm install devfont
+
+# Install using Yarn
+yarn add devfont
 ```
 
 ## Quick start
@@ -39,6 +43,10 @@ Simply copy and paste the following code snippet into a blank `html` file to beg
 For more info on how to contribute please see the [contribution guidelines](https://github.com/devfont/devfont/blob/master/contributing.md).
 
 Caught a mistake or want to contribute to the documentation? [Edit this page on Github](https://github.com/devfont/devfont/blob/master/readme.md)
+
+## Design
+
+See all icons on [Figma](https://www.figma.com/file/6UxYVimMRFLHuyPXBlxkkj/devfont-icons?node-id=4%3A154).
 
 ## License
 
