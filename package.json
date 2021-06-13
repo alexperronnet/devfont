@@ -1,11 +1,12 @@
 {
   "name": "devfont",
-  "version": "0.0.0-development",
-  "description":
-    "Beautiful and elegant open source icon set for UI designers and developers.",
+  "version": "3.5.0",
+  "description": "Beautiful and elegant open source icon set for UI designers and developers.",
   "main": "dist/devfont.js",
   "unpkg": "dist/devfont.min.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "./bin/build.sh",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
