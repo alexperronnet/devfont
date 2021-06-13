@@ -1,8 +1,18 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 10C5.6984 10.0368 4.46246 10.5797 3.55483 11.5134C2.6472 12.4471 2.13943 13.6979 2.13943 15C2.13943 16.3021 2.6472 17.5529 3.55483 18.4866C4.46246 19.4202 5.6984 19.9632 7 20H17C17.866 20 18.681 19.78 19.392 19.392" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 14.9999C12 14.1339 12.22 13.3189 12.608 12.6079" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6.097 10.0808C5.87929 8.88086 6.03025 7.64315 6.53001 6.53076" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M1 1L6.53 6.53L12.608 12.608L19.392 19.392L23 23" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.297 10.2969C16.131 9.99445 17.0306 9.91989 17.903 10.0809C18.6177 10.2121 19.2952 10.4975 19.8885 10.9172C20.4817 11.3369 20.9763 11.8808 21.338 12.511C21.6997 13.1413 21.9197 13.8428 21.9827 14.5667C22.0457 15.2906 21.9503 16.0196 21.703 16.7029" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17.903 10.081C18.1121 8.94188 17.9871 7.76659 17.543 6.69696C17.099 5.62733 16.3548 4.70908 15.4004 4.05304C14.446 3.39699 13.3221 3.03118 12.1644 2.99977C11.0067 2.96835 9.8646 3.27267 8.87601 3.87599" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M7 10a5.002 5.002 0 0 0 0 10h10c.866 0 1.681-.22 2.392-.608" />
+  <path d="M12 15c0-.866.22-1.681.608-2.392" />
+  <path d="M6.097 10.08a6.034 6.034 0 0 1 .433-3.55" />
+  <path d="M1 1l5.53 5.53 6.078 6.078 6.784 6.784L23 23" />
+  <path d="M15.297 10.297a5.002 5.002 0 0 1 6.406 6.406" />
+  <path d="M17.903 10.081a6 6 0 0 0-9.027-6.205" />
 </svg>

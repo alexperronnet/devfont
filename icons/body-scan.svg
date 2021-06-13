@@ -1,8 +1,18 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 7V3H7" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 7V3H17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 17V21H17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3 17V21H7" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="12" cy="7.5" r="1.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6.34142 8C6.94399 9.70483 8.29518 11.056 10 11.6586V18H14V11.6586C15.7048 11.056 17.056 9.70483 17.6586 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M3 7V3h4" />
+  <path d="M21 7V3h-4" />
+  <path d="M21 17v4h-4" />
+  <path d="M3 17v4h4" />
+  <circle cx="12" cy="7.5" r="1.5" />
+  <path d="M6.341 8A6.017 6.017 0 0 0 10 11.659V18h4v-6.341A6.017 6.017 0 0 0 17.659 8" />
 </svg>

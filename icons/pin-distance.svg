@@ -1,8 +1,18 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 6.23005C12 10.04 7.5 13 7.5 13C7.5 13 3 10.039 3 6.23005C3 5.10905 3.474 4.03305 4.318 3.24005C5.183 2.43809 6.32045 1.99483 7.5 2.00005C8.67955 1.99483 9.817 2.43809 10.682 3.24005C11.0946 3.62172 11.4245 4.08402 11.6512 4.59833C11.8779 5.11263 11.9966 5.668 12 6.23005V6.23005Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 15.23C21 19.038 16.5 22 16.5 22C16.5 22 12 19.038 12 15.23C12 14.109 12.474 13.033 13.318 12.24C14.183 11.4381 15.3205 10.9948 16.5 11C17.6795 10.9948 18.817 11.4381 19.682 12.24C20.0946 12.6217 20.4245 13.084 20.6512 13.5983C20.878 14.1126 20.9967 14.668 21 15.23V15.23Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.5 7C7.77614 7 8 6.77614 8 6.5C8 6.22386 7.77614 6 7.5 6C7.22386 6 7 6.22386 7 6.5C7 6.77614 7.22386 7 7.5 7Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16.5 16C16.7761 16 17 15.7761 17 15.5C17 15.2239 16.7761 15 16.5 15C16.2239 15 16 15.2239 16 15.5C16 15.7761 16.2239 16 16.5 16Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16.5 15.5H16.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.5 6.5H7.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 6.23C12 10.04 7.5 13 7.5 13S3 10.039 3 6.23c0-1.121.474-2.197 1.318-2.99A4.65 4.65 0 0 1 7.5 2a4.65 4.65 0 0 1 3.182 1.24A4.107 4.107 0 0 1 12 6.23z" />
+  <path d="M21 15.23c0 3.808-4.5 6.77-4.5 6.77S12 19.038 12 15.23c0-1.121.474-2.197 1.318-2.99A4.65 4.65 0 0 1 16.5 11a4.65 4.65 0 0 1 3.182 1.24A4.107 4.107 0 0 1 21 15.23z" />
+  <path d="M7.5 7a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z" />
+  <path d="M16.5 16a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z" />
+  <path d="M16.5 15.5h.01" />
+  <path d="M7.5 6.5h.01" />
 </svg>

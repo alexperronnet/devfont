@@ -1,21 +1,21 @@
 {
   "name": "devfont",
-  "version": "3.1.1",
-  "description": "Beautiful and elegant open source icon set for UI designers and developers.",
+  "version": "0.0.0-development",
+  "description":
+    "Beautiful and elegant open source icon set for UI designers and developers.",
   "main": "dist/devfont.js",
   "unpkg": "dist/devfont.min.js",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
-    "build": "./bin/_build.sh"
+    "build": "./bin/build.sh",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-loader": "^7.1.1",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0-rc.10",
     "html-minifier": "^3.5.8",
     "prettier": "^1.8.2",
     "svgo": "^0.7.2",

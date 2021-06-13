@@ -1,12 +1,18 @@
+/**
+ * Based on Feather Icons
+ * See https://github.com/feathericons/feather
+ */
+
 import path from "path"
 import cheerio from "cheerio"
 import { minify } from "html-minifier"
 
 /**
- * @param {string[]} svgFiles
- * @param {Function} getSvg
+ * Build an object in the format: `{ <name>: <contents> }`.
+ * @param {string[]} svgFiles - A list of filenames.
+ * @param {Function} getSvg - A function that returns the contents of an SVG file given a filename.
  * @returns {Object}
-*/
+ */
 function buildIconsObject(svgFiles, getSvg) {
   return svgFiles
     .map(svgFile => {
@@ -22,9 +28,10 @@ function buildIconsObject(svgFiles, getSvg) {
 }
 
 /**
+ * Get contents between opening and closing `<svg>` tags.
  * @param {string} svg
  * @returns {string}
-*/
+ */
 function getSvgContents(svg) {
   const $ = cheerio.load(svg)
   return minify($("svg").html(), { collapseWhitespace: true })

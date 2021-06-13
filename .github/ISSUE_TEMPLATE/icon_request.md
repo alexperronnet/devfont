@@ -7,7 +7,7 @@ about: Suggest a new icon for Devfont
 
 ## Icon Request
 
-* Icon name: 
-* Tags of this icon: 
-* Use case: 
+* Icon name:
+* Tags of this icon:
+* Use case:
 * Screenshots of similar icons:

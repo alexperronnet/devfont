@@ -21,9 +21,9 @@ If applicable, add screenshots to help explain your problem.
 
 ## Device
 
-- OS: [e.g. OSX 10.14.2]
-- Browser and version: [e.g. Chrome 71.0.3578.98(64-bit)]
-- Website version: [e.g. 1.2.1]
+* OS: [e.g. OSX 10.14.2]
+* Browser and version: [e.g. Chrome 71.0.3578.98(64-bit)]
+* Website version: [e.g. 1.2.1]
 
 ## Additional context
 

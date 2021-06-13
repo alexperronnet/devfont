@@ -1,7 +1,17 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 6.5C4 7.16304 4.26339 7.79893 4.73223 8.26777C5.20107 8.73661 5.83696 9 6.5 9H9V6.5C9 5.83696 8.73661 5.20107 8.26777 4.73223C7.79893 4.26339 7.16304 4 6.5 4C5.83696 4 5.20107 4.26339 4.73223 4.73223C4.26339 5.20107 4 5.83696 4 6.5V6.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M4 17.5C4 16.837 4.26339 16.2011 4.73223 15.7322C5.20107 15.2634 5.83696 15 6.5 15H9V17.5C9 18.163 8.73661 18.7989 8.26777 19.2678C7.79893 19.7366 7.16304 20 6.5 20C5.83696 20 5.20107 19.7366 4.73223 19.2678C4.26339 18.7989 4 18.163 4 17.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 6.5C20 7.16304 19.7366 7.79893 19.2678 8.26777C18.7989 8.73661 18.163 9 17.5 9H15V6.5C15 5.83696 15.2634 5.20107 15.7322 4.73223C16.2011 4.26339 16.837 4 17.5 4C18.163 4 18.7989 4.26339 19.2678 4.73223C19.7366 5.20107 20 5.83696 20 6.5V6.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 17.5C20 16.837 19.7366 16.2011 19.2678 15.7322C18.7989 15.2634 18.163 15 17.5 15H15V17.5C15 18.163 15.2634 18.7989 15.7322 19.2678C16.2011 19.7366 16.837 20 17.5 20C18.163 20 18.7989 19.7366 19.2678 19.2678C19.7366 18.7989 20 18.163 20 17.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15 9H9V15H15V9Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M4 6.5A2.5 2.5 0 0 0 6.5 9H9V6.5a2.5 2.5 0 1 0-5 0z" />
+  <path d="M4 17.5A2.5 2.5 0 0 1 6.5 15H9v2.5a2.5 2.5 0 0 1-5 0z" />
+  <path d="M20 6.5A2.5 2.5 0 0 1 17.5 9H15V6.5a2.5 2.5 0 0 1 5 0z" />
+  <path d="M20 17.5a2.5 2.5 0 0 0-2.5-2.5H15v2.5a2.5 2.5 0 0 0 5 0z" />
+  <path d="M15 9H9v6h6V9z" />
 </svg>

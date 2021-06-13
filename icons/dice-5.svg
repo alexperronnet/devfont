@@ -1,13 +1,23 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M20 4H4V20H20V4Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 12H12.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 8.5H15.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 15.5H15.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 15.5H8.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 8.5H8.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8.5" cy="8.5" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="15.5" cy="8.5" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="15.5" cy="15.5" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8.5" cy="15.5" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="12" cy="12" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M20 4H4v16h16V4z" />
+  <path d="M12 12h.01" />
+  <path d="M15.5 8.5h.01" />
+  <path d="M15.5 15.5h.01" />
+  <path d="M8.5 15.5h.01" />
+  <path d="M8.5 8.5h.01" />
+  <circle cx="8.5" cy="8.5" r=".5" />
+  <circle cx="15.5" cy="8.5" r=".5" />
+  <circle cx="15.5" cy="15.5" r=".5" />
+  <circle cx="8.5" cy="15.5" r=".5" />
+  <circle cx="12" cy="12" r=".5" />
 </svg>

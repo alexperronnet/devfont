@@ -1,6 +1,16 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M21 11.9999C21.0015 13.1821 20.7695 14.3528 20.3171 15.445C19.8647 16.5371 19.201 17.5291 18.364 18.3639C17.5292 19.2009 16.5372 19.8646 15.4451 20.317C14.3529 20.7694 13.1821 21.0015 12 20.9999C10.8179 21.0015 9.64709 20.7694 8.55495 20.317C7.4628 19.8646 6.47082 19.2009 5.636 18.3639C4.58945 17.3174 3.81716 16.0289 3.38753 14.6125C2.9579 13.1962 2.88419 11.6958 3.17294 10.2442C3.46168 8.79255 4.10397 7.43455 5.04291 6.29046C5.98185 5.14636 7.18845 4.25148 8.55584 3.68509C9.92323 3.1187 11.4092 2.89827 12.8821 3.04334C14.3551 3.1884 15.7695 3.69448 17.0001 4.51675C18.2307 5.33902 19.2396 6.45209 19.9373 7.75738C20.635 9.06266 21 10.5199 21 11.9999V11.9999Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 12L18.364 18.364" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 12L5.63599 18.364" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 21V3" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M21 12a8.972 8.972 0 0 1-2.636 6.364A8.972 8.972 0 0 1 12 21a8.97 8.97 0 0 1-6.364-2.636A9 9 0 1 1 21 12z" />
+  <path d="M12 12l6.364 6.364" />
+  <path d="M12 12l-6.364 6.364" />
+  <path d="M12 21V3" />
 </svg>

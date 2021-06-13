@@ -1,15 +1,25 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M20 4H4V20H20V4Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 8H15.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 12H15.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 16H15.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 16H8.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 12H8.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8.5 8H8.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8.5" cy="8" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8.5" cy="12" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="15.5" cy="12" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8.5" cy="16" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="15.5" cy="16" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="15.5" cy="8" r="0.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M20 4H4v16h16V4z" />
+  <path d="M15.5 8h.01" />
+  <path d="M15.5 12h.01" />
+  <path d="M15.5 16h.01" />
+  <path d="M8.5 16h.01" />
+  <path d="M8.5 12h.01" />
+  <path d="M8.5 8h.01" />
+  <circle cx="8.5" cy="8" r=".5" />
+  <circle cx="8.5" cy="12" r=".5" />
+  <circle cx="15.5" cy="12" r=".5" />
+  <circle cx="8.5" cy="16" r=".5" />
+  <circle cx="15.5" cy="16" r=".5" />
+  <circle cx="15.5" cy="8" r=".5" />
 </svg>

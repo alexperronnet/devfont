@@ -1,5 +1,10 @@
+/**
+ * Based on Feather Icons
+ * See https://github.com/feathericons/feather
+ */
+
 import classnames from "classnames/dedupe"
-import DEFAULT_ATTRS from "../data/defaultAttrs.json"
+import DEFAULT_ATTRS from "../data/default-attrs.json"
 
 class Icon {
   constructor(name, contents, tags = []) {
@@ -13,9 +18,10 @@ class Icon {
   }
 
   /**
+   * Create an SVG string.
    * @param {Object} attrs
    * @returns {string}
-  */
+   */
   toSvg(attrs = {}) {
     const combinedAttrs = {
       ...this.attrs,
@@ -27,17 +33,23 @@ class Icon {
   }
 
   /**
+   * Return string representation of an `Icon`.
+   *
+   * Added for backward compatibility. If old code expects `devfont.icons.<name>`
+   * to be a string, `toString()` will get implicitly called.
+   *
    * @returns {string}
-  */
+   */
   toString() {
     return this.contents
   }
 }
 
 /**
+ * Convert attributes object to string of HTML attributes.
  * @param {Object} attrs
  * @returns {string}
-*/
+ */
 function attrsToString(attrs) {
   return Object.keys(attrs)
     .map(key => `${key}="${attrs[key]}"`)
