@@ -1,17 +1,7 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M12 16a7 7 0 0 0 7-7V4H5v5a7 7 0 0 0 7 7z" />
-  <path d="M12 16v4" />
-  <path d="M22 6v2" />
-  <path d="M2 6v2" />
-  <path d="M7 20h10" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 16C13.8565 16 15.637 15.2625 16.9497 13.9497C18.2625 12.637 19 10.8565 19 9V4H5V9C5 10.8565 5.7375 12.637 7.05025 13.9497C8.36301 15.2625 10.1435 16 12 16Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 16V20" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 6V8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2 6V8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 20H17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

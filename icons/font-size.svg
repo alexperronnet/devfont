@@ -1,14 +1,5 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M2 19l1.964-5m0 0L7.5 5h1l3.536 9m-8.072 0h8.072m0 0L14 19" />
-  <path d="M22 16a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm0 0v-3m0 3v3" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="19" cy="16" r="3" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 19V13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 19L11.8571 14M2 19L4.14286 14M4.14286 14L8 5L11.8571 14M4.14286 14H11.8571" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

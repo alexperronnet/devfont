@@ -1,15 +1,4 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M12 7a3 3 0 0 0-3-3H3v16h9" />
-  <path d="M12 7a3 3 0 0 1 3-3h6v16h-9" />
-  <path d="M12 7v15" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 7C12 5.34315 13.3431 4 15 4H21V20H12M12 7C12 5.34315 10.6569 4 9 4H3V20H12M12 7V20" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 20V22" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

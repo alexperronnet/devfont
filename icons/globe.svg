@@ -1,16 +1,6 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <circle cx="12" cy="10" r="6" />
-  <path d="M5 15.657A9 9 0 1 0 17.657 3" />
-  <path d="M12 19v3" />
-  <path d="M7 22h10" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 16C15.3137 16 18 13.3137 18 10C18 6.68629 15.3137 4 12 4C8.68629 4 6 6.68629 6 10C6 13.3137 8.68629 16 12 16Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 15.657C5.79328 16.6384 6.78408 17.442 7.90808 18.0157C9.03209 18.5894 10.2642 18.9202 11.5243 18.9868C12.7845 19.0534 14.0446 18.8543 15.2228 18.4023C16.401 17.9504 17.471 17.2557 18.3633 16.3633C19.2557 15.471 19.9504 14.401 20.4023 13.2228C20.8543 12.0446 21.0534 10.7845 20.9868 9.52434C20.9202 8.26416 20.5894 7.03209 20.0157 5.90808C19.442 4.78408 18.6384 3.79328 17.657 3" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 19V22" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 22H17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

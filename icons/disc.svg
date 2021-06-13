@@ -1,14 +1,4 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <circle cx="12" cy="12" r="2" />
-  <path d="M10 3.223a9 9 0 1 0 4 0V12" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.99999 3.22314C7.84261 3.71486 5.94198 4.98408 4.66114 6.78838C3.3803 8.59268 2.80902 10.8056 3.05643 13.0044C3.30383 15.2032 4.35259 17.2339 6.00236 18.7084C7.65213 20.183 9.78729 20.9981 12 20.9981C14.2127 20.9981 16.3479 20.183 17.9976 18.7084C19.6474 17.2339 20.6961 15.2032 20.9436 13.0044C21.191 10.8056 20.6197 8.59268 19.3388 6.78838C18.058 4.98408 16.1574 3.71486 14 3.22314V12.0001" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,18 +1,8 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M3 12v-.07m0 0V13m0-1.07a8.971 8.971 0 0 1 2.636-6.294" />
-  <path d="M8 14a1 1 0 0 0-1-1H3v6a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-5z" />
-  <path d="M20 20h-3a1 1 0 0 1-1-1v-3" />
-  <path d="M1 1l22 22" />
-  <path d="M21 13v-1A9 9 0 0 0 8.646 3.646" />
-  <path d="M18 13h3v3" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 11.9302C3.0153 9.56691 3.96257 7.30511 5.636 5.63623M3 12.0002V11.9302V12.0002ZM3 11.9302V13.0002V11.9302Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 14C8 13.7348 7.89464 13.4804 7.70711 13.2929C7.51957 13.1054 7.26522 13 7 13H3V19C3 19.2652 3.10536 19.5196 3.29289 19.7071C3.48043 19.8946 3.73478 20 4 20H7C7.26522 20 7.51957 19.8946 7.70711 19.7071C7.89464 19.5196 8 19.2652 8 19V14Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 20H17C16.7348 20 16.4804 19.8946 16.2929 19.7071C16.1054 19.5196 16 19.2652 16 19V16" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 1L23 23" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 12.9999V11.9999C21.0004 10.5279 20.6397 9.07821 19.9495 7.778C19.2594 6.4778 18.2609 5.36671 17.0415 4.54214C15.8221 3.71756 14.4191 3.20467 12.9554 3.04841C11.4917 2.89215 10.012 3.0973 8.646 3.64587" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 13H21V16" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

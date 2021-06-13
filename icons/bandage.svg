@@ -1,17 +1,7 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M14 12v.01" />
-  <path d="M10 12v.01" />
-  <path d="M12 10v.01" />
-  <path d="M12 14v.01" />
-  <path d="M4.5 12.5l8-8a4.95 4.95 0 1 1 7 7l-8 8a4.95 4.95 0 1 1-7-7" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 12V12.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10 12V12.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 10V10.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 14V14.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.5 12.5L12.5 4.5C12.9579 4.03273 13.5039 3.66087 14.1065 3.40593C14.709 3.15098 15.3561 3.01802 16.0104 3.01471C16.6646 3.01141 17.313 3.13783 17.9181 3.38668C18.5232 3.63552 19.0729 4.00184 19.5355 4.46447C19.9982 4.92709 20.3645 5.47684 20.6133 6.08192C20.8622 6.687 20.9886 7.33541 20.9853 7.98965C20.982 8.64389 20.849 9.29099 20.5941 9.89352C20.3391 10.4961 19.9673 11.0421 19.5 11.5L11.5 19.5C11.0421 19.9673 10.4961 20.3391 9.89352 20.5941C9.29099 20.849 8.64389 20.982 7.98965 20.9853C7.33541 20.9886 6.687 20.8622 6.08192 20.6133C5.47684 20.3645 4.92709 19.9982 4.46447 19.5355C4.00184 19.0729 3.63552 18.5232 3.38668 17.9181C3.13783 17.313 3.01141 16.6646 3.01471 16.0104C3.01802 15.3561 3.15098 14.709 3.40593 14.1065C3.66087 13.5039 4.03273 12.9579 4.5 12.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

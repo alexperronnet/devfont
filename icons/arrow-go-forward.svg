@@ -1,14 +1,4 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M18 20h-8a7 7 0 1 1 0-14h10" />
-  <path d="M16 2l4 4-4 4" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M18 20H10C9.08075 20 8.1705 19.8189 7.32122 19.4672C6.47194 19.1154 5.70026 18.5998 5.05025 17.9497C4.40024 17.2997 3.88463 16.5281 3.53284 15.6788C3.18106 14.8295 3 13.9193 3 13C3 12.0807 3.18106 11.1705 3.53284 10.3212C3.88463 9.47194 4.40024 8.70026 5.05025 8.05025C5.70026 7.40024 6.47194 6.88463 7.32122 6.53284C8.1705 6.18106 9.08075 6 10 6H20" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 2L20 6L16 10" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
